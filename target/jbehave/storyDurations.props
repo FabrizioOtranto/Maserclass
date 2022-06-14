@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Jun 10 21:50:46 ART 2022
+stories/stories.login/Login.story=13000
+threads=1
+total=13000
+threadAverage=13000

@@ -1,0 +1,5 @@
+org\example\steps\DefinitionSteps.class
+org\example\steps\serenity\EndUserSteps.class
+org\example\pages\LoginPage.class
+org\example\AcceptanceTestSuite.class
+org\example\pages\HomePage.class

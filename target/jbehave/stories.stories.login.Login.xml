@@ -1,0 +1,12 @@
+<story path="stories/stories.login/Login.story" title="Login valid credentials">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">use al the functionalities on the webpage</inOrderTo>
+  <asA keyword="As a">user</asA>
+  <iWantTo keyword="I want to">be able to log in</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="login Scenario">
+<step outcome="successful">Given the user is on the login page</step>
+<step outcome="successful">When the user enters valid username &apos;qs123@gmail.com&apos; and password &apos;qs123&apos;</step>
+<step outcome="successful">Then the user is redirected to home page</step>
+</scenario>
+</story>
